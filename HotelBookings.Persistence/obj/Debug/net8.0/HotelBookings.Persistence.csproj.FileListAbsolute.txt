@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Persistence.deps.json
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Persistence.runtimeconfig.json
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Persistence.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Persistence.pdb
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Domain.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Domain.pdb
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.AssemblyInfo.cs
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBoo.03489775.Up2Date
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\refint\HotelBookings.Persistence.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.pdb
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.genruntimeconfig.cache
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\ref\HotelBookings.Persistence.dll

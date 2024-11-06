@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\bin\Debug\net8.0\HotelBookings.Domain.deps.json
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\bin\Debug\net8.0\HotelBookings.Domain.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\bin\Debug\net8.0\HotelBookings.Domain.pdb
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\HotelBookings.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\HotelBookings.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\HotelBookings.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\HotelBookings.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\HotelBookings.Domain.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\refint\HotelBookings.Domain.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\HotelBookings.Domain.pdb
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\ref\HotelBookings.Domain.dll
+C:\Users\USER\source\repos\HotelBookings.Presentation\HotelBookings.Domain\obj\Debug\net8.0\HotelBookings.Domain.csproj.AssemblyReference.cache
