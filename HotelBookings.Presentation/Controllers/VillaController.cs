@@ -53,7 +53,7 @@ namespace HotelBookings.Presentation.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Update(villa);
+                _context.Villas.Update(villa);
                 _context.SaveChanges();
                 TempData["success"] = "Villa has been updated successfully!";
                 return RedirectToAction("Index");
@@ -78,7 +78,7 @@ namespace HotelBookings.Presentation.Controllers
 
             if (villaObj != null)
             {
-                _context.Remove(villaObj);
+                _context.Villas.Remove(villaObj);
                 _context.SaveChanges();
                 TempData["success"] = "Villa has been deleted successfully!";
                 return RedirectToAction("Index");
