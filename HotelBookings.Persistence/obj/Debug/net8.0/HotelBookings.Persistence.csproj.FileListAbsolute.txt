@@ -33,3 +33,5 @@ C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\Hot
 C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.pdb
 C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\HotelBookings.Persistence.genruntimeconfig.cache
 C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Persistence\obj\Debug\net8.0\ref\HotelBookings.Persistence.dll
+C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Application.dll
+C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Persistence\bin\Debug\net8.0\HotelBookings.Application.pdb

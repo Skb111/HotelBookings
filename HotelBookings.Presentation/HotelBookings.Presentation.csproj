@@ -19,4 +19,8 @@
     <ProjectReference Include="..\HotelBookings.Persistence\HotelBookings.Persistence.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\VillaImages\" />
+  </ItemGroup>
+
 </Project>

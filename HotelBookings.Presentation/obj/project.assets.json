@@ -1851,6 +1851,19 @@
           }
         }
       },
+      "HotelBookings.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "HotelBookings.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HotelBookings.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelBookings.Application.dll": {}
+        }
+      },
       "HotelBookings.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1868,6 +1881,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "HotelBookings.Application": "1.0.0",
           "HotelBookings.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "8.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
@@ -4678,6 +4692,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "HotelBookings.Application/1.0.0": {
+      "type": "project",
+      "path": "../HotelBookings.Application/HotelBookings.Application.csproj",
+      "msbuildProject": "../HotelBookings.Application/HotelBookings.Application.csproj"
     },
     "HotelBookings.Domain/1.0.0": {
       "type": "project",

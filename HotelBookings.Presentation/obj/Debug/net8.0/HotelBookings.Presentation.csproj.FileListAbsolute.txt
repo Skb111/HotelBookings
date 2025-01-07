@@ -293,3 +293,5 @@ C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\Hot
 C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Presentation\obj\Debug\net8.0\HotelBookings.Presentation.pdb
 C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Presentation\obj\Debug\net8.0\HotelBookings.Presentation.genruntimeconfig.cache
 C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Presentation\obj\Debug\net8.0\ref\HotelBookings.Presentation.dll
+C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Presentation\bin\Debug\net8.0\HotelBookings.Application.dll
+C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Presentation\bin\Debug\net8.0\HotelBookings.Application.pdb

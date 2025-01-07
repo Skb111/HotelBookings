@@ -1863,6 +1863,19 @@
           }
         }
       },
+      "HotelBookings.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "HotelBookings.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HotelBookings.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelBookings.Application.dll": {}
+        }
+      },
       "HotelBookings.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -4702,6 +4715,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "HotelBookings.Application/1.0.0": {
+      "type": "project",
+      "path": "../HotelBookings.Application/HotelBookings.Application.csproj",
+      "msbuildProject": "../HotelBookings.Application/HotelBookings.Application.csproj"
+    },
     "HotelBookings.Domain/1.0.0": {
       "type": "project",
       "path": "../HotelBookings.Domain/HotelBookings.Domain.csproj",
@@ -4710,6 +4728,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "HotelBookings.Application >= 1.0.0",
       "HotelBookings.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Relational >= 8.0.10",
@@ -4749,6 +4768,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\USER\\source\\repos\\Skb111\\Bookings4Hotels\\HotelBookings.Presentation\\HotelBookings.Application\\HotelBookings.Application.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Bookings4Hotels\\HotelBookings.Presentation\\HotelBookings.Application\\HotelBookings.Application.csproj"
+            },
             "C:\\Users\\USER\\source\\repos\\Skb111\\Bookings4Hotels\\HotelBookings.Presentation\\HotelBookings.Domain\\HotelBookings.Domain.csproj": {
               "projectPath": "C:\\Users\\USER\\source\\repos\\Skb111\\Bookings4Hotels\\HotelBookings.Presentation\\HotelBookings.Domain\\HotelBookings.Domain.csproj"
             }
