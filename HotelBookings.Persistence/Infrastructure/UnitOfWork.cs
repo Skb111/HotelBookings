@@ -13,12 +13,14 @@ namespace HotelBookings.Persistence.Infrastructure
 		private readonly ApplicationDbContext _context;
 		public IVillaRepository Villa { get; private set; }
 		public IVillaNumberRepository VillaNumber { get; private set; }
+        public IAmenityRepository AmenityRep { get; private set; }
 
-		public UnitOfWork(ApplicationDbContext context)
+        public UnitOfWork(ApplicationDbContext context)
         {
             _context = context;
 			Villa = new VillaRepository(_context);
 			VillaNumber = new VillaNumberRepository(_context);
+			AmenityRep = new AmenityRepository(_context);
         }
 
 		public void Save()

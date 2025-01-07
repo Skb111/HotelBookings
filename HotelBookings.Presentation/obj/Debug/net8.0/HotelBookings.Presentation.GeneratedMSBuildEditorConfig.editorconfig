@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\USER\source\repos\Skb111\Bookings4Hotels\HotelBookings.Presentation\HotelBookings.Presentation
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/USER/source/repos/Skb111/Bookings4Hotels/HotelBookings.Presentation/HotelBookings.Presentation/Views/Amenity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/Skb111/Bookings4Hotels/HotelBookings.Presentation/HotelBookings.Presentation/Views/Amenity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/Skb111/Bookings4Hotels/HotelBookings.Presentation/HotelBookings.Presentation/Views/Amenity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/Skb111/Bookings4Hotels/HotelBookings.Presentation/HotelBookings.Presentation/Views/Amenity/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/source/repos/Skb111/Bookings4Hotels/HotelBookings.Presentation/HotelBookings.Presentation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

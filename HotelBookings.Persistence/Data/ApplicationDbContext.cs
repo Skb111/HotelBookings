@@ -9,6 +9,7 @@ namespace HotelBookings.Persistence.Data
 
         public DbSet<Villa> Villas { get; set; }
         public DbSet<VillaNumber> VillaNumbers { get; set; }
+        public DbSet<Amenity> Amenities { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -28,6 +29,11 @@ namespace HotelBookings.Persistence.Data
                  new VillaNumber { VillaId = 2, Villa_Number = 203 },
                  new VillaNumber { VillaId = 3, Villa_Number = 301 },
                  new VillaNumber { VillaId = 3, Villa_Number = 302 });
+
+            modelBuilder.Entity<Amenity>().HasData(
+                new Amenity { Id = 1, VillaId = 1, Name = "Private Pool" },
+                new Amenity { Id = 2, VillaId = 2, Name = "Resort" },
+                new Amenity { Id = 3, VillaId = 3, Name = "Private Bar" });
         }
     }
 }

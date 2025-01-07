@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AxvzjZLjSOda/9Ua6mctaz5gOXFnJps1SSDa7LnNFNE=",
+  "Hash": "eW7s2cB+P17EFzlNP96Y1KCLvp8I8WPk1LwuoM4XQdc=",
   "Source": "HotelBookings.Presentation",
   "BasePath": "_content/HotelBookings.Presentation",
   "Mode": "Default",
@@ -110,25 +110,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\images.png"
-    },
-    {
-      "Identity": "C:\\Users\\USER\\source\\repos\\Skb111\\Bookings4Hotels\\HotelBookings.Presentation\\HotelBookings.Presentation\\wwwroot\\images\\VillaImages\\096c78c6-fb83-4c5e-997b-84663f5d1b12.jpg",
-      "SourceId": "HotelBookings.Presentation",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\Skb111\\Bookings4Hotels\\HotelBookings.Presentation\\HotelBookings.Presentation\\wwwroot\\",
-      "BasePath": "_content/HotelBookings.Presentation",
-      "RelativePath": "images/VillaImages/096c78c6-fb83-4c5e-997b-84663f5d1b12.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\096c78c6-fb83-4c5e-997b-84663f5d1b12.jpg"
     },
     {
       "Identity": "C:\\Users\\USER\\source\\repos\\Skb111\\Bookings4Hotels\\HotelBookings.Presentation\\HotelBookings.Presentation\\wwwroot\\images\\VillaImages\\732a6cca-8c7b-4a6b-b30d-f78446c959ee.jpg",
